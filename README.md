@@ -283,7 +283,7 @@ Example output:
 
 # Repository Structure
 
-
+```
 ames-housing-price-prediction
 │
 ├── notebooks
@@ -304,7 +304,7 @@ ames-housing-price-prediction
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ---
 
